@@ -1,0 +1,21 @@
+
+DONE:
+
+Level select text on main menu
+Hover over text on main menu 
+Level Select
+Timer
+Reset position after death
+Saving score globally
+ESC to return to menu
+Returning to menu
+
+TODO:
+
+Implement the snitch
+
+MAYBE:
+
+save score in local index.db
+Music?
+WFC
